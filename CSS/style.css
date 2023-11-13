@@ -29,3 +29,9 @@ background-color: cornflowerblue;
     background-color: blue;
     color: aqua;
 }
+.conatinerN{
+    display: flex;
+    text-align: center;
+    border: 2px solid black;
+    
+}
